@@ -1,8 +1,8 @@
 # Gas-Leakage-Detection-System
 
-Working:!
+Working:
 
-[image](https://user-images.githubusercontent.com/84971685/235320341-65db89dc-76d1-4103-881e-49252bb3eb96.jpg)
+![image](https://user-images.githubusercontent.com/84971685/235320341-65db89dc-76d1-4103-881e-49252bb3eb96.jpg)
 
 
 
